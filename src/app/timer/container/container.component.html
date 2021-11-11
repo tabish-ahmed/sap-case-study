@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="countdown">
+        <app-countdown [timer]=timeLeft></app-countdown>
+    </div>
+    <div class="timer-controls">
+        <app-timer-controls [logger]="logger" (start)="action($event)" (reset)="reset($event)" (pause)="pause($event)"></app-timer-controls>
+    </div>
+    <div class="timer-logger">
+        <app-timer-logger  [logger]=logger></app-timer-logger>
+    </div>
+    <div class="action-count">
+        <app-action-count [paused]=paused [started]=started></app-action-count>
+    </div>
+
+</div>

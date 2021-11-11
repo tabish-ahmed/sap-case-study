@@ -1,0 +1,14 @@
+<div class="controls">
+  <div class="time-limit-input">
+    <label>Input Timer Limit</label>
+    <input class="input" [(ngModel)]="time" type="number" min="0" />
+  </div>
+  <div class="action-btn">
+    <button (click)="timerService.action(time); time=0" type="button">Start</button>
+    <button (click)="timerService.pause()" type="button">Pause</button>
+    <button (click)="timerService.reset()" type="button">Reset</button>
+  </div>
+</div>
+<div class="logs">
+  <p *ngFor="let log of timerService.logger">{{ log?.type }} at {{ log?.timerVal }}</p>
+</div>

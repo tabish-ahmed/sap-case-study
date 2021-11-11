@@ -1,0 +1,9 @@
+.logger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logger h5 {
+    margin: 0;
+}

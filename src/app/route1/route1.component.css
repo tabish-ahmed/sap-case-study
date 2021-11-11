@@ -1,0 +1,23 @@
+.container {
+    position: absolute;
+    top: 35px;
+    bottom:35px;
+    left:25px;
+    right:25px;
+}
+.box {
+    position: absolute;
+    top: 35px;
+    bottom:35px;
+    left:25px;
+    right:25px;
+    border: 5px solid black;
+    
+  }
+
+  .floating-text {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 50px;
+  }

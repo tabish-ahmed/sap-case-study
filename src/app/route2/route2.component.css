@@ -1,0 +1,41 @@
+.product-filter {
+  display: flex;
+  margin: 20px;
+  justify-content: flex-end;
+}
+.sort {
+  display: flex;
+}
+.collection-sort {
+  display: flex;
+  flex-direction: column;
+}
+select {
+  padding: 5px;
+  cursor: pointer;
+}
+.view-types button{
+  margin-right: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  padding: 10px;
+}
+.list {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.product-card {
+  height: auto;
+  padding: 10px;
+  border: 2px solid black;
+}
+img {
+  max-width: 100%;
+}

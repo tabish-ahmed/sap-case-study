@@ -1,0 +1,15 @@
+<table>
+    <tr>
+      <th *ngFor="let heading of headings" (click)="sort(heading, order)">{{heading}}</th>
+     </tr>
+    <tr *ngFor="let data of studentsData">
+      <td>{{data?.Name}}</td>
+      <td>{{data?.Class}}</td>
+      <td>{{data?.Section}}</td>
+      <td>{{data?.Maths}}</td>
+      <td>{{data?.Science}}</td>
+      <td>{{data?.English}}</td>
+
+    </tr>
+  </table>
+  

@@ -1,0 +1,485 @@
+{
+    "students":[
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+},
+{
+    "Name":"Tabish Ahmed",
+    "Class":"10",
+    "Section":"A",
+    "Maths":100,
+    "Science":59,
+    "English":78
+},
+{
+    "Name":"Ram Kumar",
+    "Class":"10",
+    "Section":"B",
+    "Maths":45,
+    "Science":96,
+    "English":88
+},
+{
+    "Name":"Srujan",
+    "Class":"11",
+    "Section":"A",
+    "Maths":90,
+    "Science":96,
+    "English":98
+},
+{
+    "Name":"Rahul Khanna",
+    "Class":"12",
+    "Section":"C",
+    "Maths":33,
+    "Science":45,
+    "English":99
+}
+
+    ]
+}

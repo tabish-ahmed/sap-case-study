@@ -1,0 +1,38 @@
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.input {
+border: 2px solid black;
+margin-left: 10px;
+}
+.action-btn {
+padding: 15px;
+margin-left: 125px;
+}
+.action-btn button {
+margin: 5px;
+}
+.logs p {
+font-size: 15px;
+margin: 0;
+}
+.logs {
+margin: 10px 0;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+-moz-appearance: textfield;
+}

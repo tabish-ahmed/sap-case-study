@@ -1,0 +1,29 @@
+<nav class="product-filter">        
+    <div class="view-types">
+        <button *ngIf="viewType === 'grid'" type="button" (click)="viewType = 'list'" >List View</button> 
+        <button *ngIf="viewType === 'list'" type="button" (click)="viewType = 'grid'"> Grid View</button>
+      </div>  
+    <div class="collection-sort">
+        <select (change)="sort($event)">
+            <option value="" selected>Select</option>
+          <option value="asc">Price: Low to high</option>
+          <option value="desc">Price: High to low</option>
+        </select>
+      </div>  
+  </nav>
+
+  <section class="products" [ngClass]="{'list': viewType === 'list'}">
+
+
+  <div class="product-card" *ngFor="let item of productData">
+    <div class="product-image">
+      <img src="assets/test.jfif">
+    </div>
+    <div class="product-info">
+      <h5>{{item?.name}}</h5>
+      <h6>Rs {{item?.price}}</h6>
+    </div>
+  </div>
+
+
+</section>
